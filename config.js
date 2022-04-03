@@ -1,6 +1,6 @@
 global.owner = ['6282365089294'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ["6285710780863", "6281347962643"] // Premium user has unlimited limit
+global.prems = ["6285710780863", "6281347962643", "6282365089294"] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -28,8 +28,8 @@ global.msg = {
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // Sticker WM
-global.packname = `Ini weem bang`
-global.author = `Ido | ExBot - Project`
+global.packname = 'ini wm banh'
+global.author = '@frmndaa'
 
 global.multiplier = 69 // The higher, The harder levelup
 
