@@ -29,7 +29,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 
 // Sticker WM
 global.packname = 'ini wm banh'
-global.author = '@frmndaa'
+global.author = 'xbot-project'
 
 global.multiplier = 69 // The higher, The harder levelup
 
